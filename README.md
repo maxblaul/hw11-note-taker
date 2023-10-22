@@ -52,7 +52,7 @@ https://maxblaul.github.io/hw11-note-taker-maxblaul/
 
 ## Screenshot 
 
-![Screenshot image](image.png)
+![Screenshot image](image-1.png)
 
 ## Resources
 
